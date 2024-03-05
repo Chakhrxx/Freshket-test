@@ -249,7 +249,8 @@ it("applies discount for ordering 5 Orange sets", () => {
 ```
 
 Mobile Screen
-
+![Screenshot Mobile](https://raw.githubusercontent.com/Chakhrxx/Freshket-test/main/mobile.png)
 Tablet Screen
-
+![Screenshot Tablet](https://raw.githubusercontent.com/Chakhrxx/Freshket-test/main/tablet.png)
 Desktop Screen
+![Screenshot Desktop](https://raw.githubusercontent.com/Chakhrxx/Freshket-test/main/desktop.png)
